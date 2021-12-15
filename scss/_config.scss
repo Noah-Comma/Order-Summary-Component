@@ -1,0 +1,22 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+$paleBlue: hsl(225, 100%, 94%);
+$veryPaleBlue: hsl(225, 100%, 98%);
+$brightBlue: hsl(245, 75%, 52%);
+$desatBlue: hsl(224, 23%, 55%);
+$darkBlue: hsl(223, 47%, 23%);
+
+$lightWt: 500;
+$midWt: 700;
+$bold: 900;
+
+$borderRadius: 0.5rem;
+
+@mixin flexDisplay {
+  display: flex;
+  flex-direction: column;
+}
