@@ -26,7 +26,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 Users should be able to:
 
 - See hover states for interactive elements
-- 
+
 ### Links
 
 - Solution URL: [Github](https://github.com/Noah-Comma/Order-Summary-Component/edit/main/README.md)
